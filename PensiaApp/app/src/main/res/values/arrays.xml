@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="interest_rates">
+        <item>6.25%</item>
+        <item>7.25%</item>
+        <item>8.25%</item>
+        <item>9.25%</item>
+        <item>10.25%</item>
+        <item>11.25%</item>
+        <item>12.25%</item>
+        <item>13.25%</item>
+    </string-array>
+
+    <string-array name="inflation_rates">
+        <item>3%</item>
+        <item>4%</item>
+        <item>5%</item>
+        <item>6%</item>
+        <item>7%</item>
+        <item>8%</item>
+        <item>9%</item>
+        <item>10%</item>
+    </string-array>
+
+    <string-array name="salary_increases">
+        <item>1%</item>
+        <item>2%</item>
+        <item>3%</item>
+        <item>4%</item>
+        <item>5%</item>
+        <item>6%</item>
+        <item>7%</item>
+        <item>8%</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PensiaApp</string>
+    <string name="register_successful">Registration successful</string>
+    <string name="password_mismatch">Password and confirm password do not match</string>
+</resources>
